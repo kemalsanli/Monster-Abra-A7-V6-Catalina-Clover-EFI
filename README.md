@@ -18,6 +18,7 @@ ELAN0403, ✅
 Monster Abra A7 V6.1 monsternotebook.com.tr/abra/MONSTER-ABRA-A7-V6-1.html 
 
 # What works?  
+Card Reader,     
 Lan,   
 Touchpad(Some gestures with multitouch),      
 Realtek ALC269(With AppleALC),    
@@ -29,8 +30,7 @@ Camera,
 
 # Not Work,
 Wifi,  
-Nvidia GPU,
-Card Reader,    
+Nvidia GPU,   
 Battery Indicator,  
 Screen Brightness,
 
