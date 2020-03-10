@@ -1,11 +1,12 @@
 # Monster-Abra-A7-V6-Catalina-Clover-EFI
 Clover Config EFI File for macOS Catalina
+Status: BETA
 
 ![ScreenShot](https://osxinfo.net/eklentiler/ekran-resmi-2020-03-09-09-33-24-png.17083/)
 
 OSXiNFO Link : https://osxinfo.net/konu/basarili-kurulum-monster-abra-a7-v6-1-catalina-10-15-3.13007/#post-84080
 
-My Hardware,
+# My Hardware,
 
 Intel Core i7-4720HQ, ✅.   
 Intel HD Graphics 4600, ✅.    
