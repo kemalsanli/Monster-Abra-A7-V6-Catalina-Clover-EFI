@@ -1,5 +1,5 @@
 # Monster-Abra-A7-V6-Catalina-Clover-EFI
-Clover Config EFI File for macOS Catalina
+Clover Config EFI File for macOS Catalina.  
 Status: BETA
 
 ![ScreenShot](https://osxinfo.net/eklentiler/ekran-resmi-2020-03-09-09-33-24-png.17083/)
