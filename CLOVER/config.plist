@@ -568,6 +568,34 @@
 				<key>Replace</key>
 				<data>iUXIOcbrUQ==</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>0x0a260006 9MB cursor bytes (vbo), 2 ports only</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>0600260a01030303000000020000300100006000</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>don2</string>
+				<key>Replace</key>
+				<data>0600260a01030202000000020000300100009000</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>0x0a260006 disable 0204 port, change 0105 DP port to 0204 HDMI</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>010509000004000087000000020409000004000087000000</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>don1</string>
+				<key>Replace</key>
+				<data>020409000008000087000000FF0000000100000040000000</data>
+			</dict>
 		</array>
 	</dict>
 	<key>RtVariables</key>
