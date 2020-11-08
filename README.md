@@ -1,6 +1,6 @@
 # Monster-Abra-A7-V6-Catalina-Clover-EFI
 Clover Config EFI File for macOS Catalina.  
-Status: BETA
+Status: STABLE
 
 ![ScreenShot](https://osxinfo.net/eklentiler/ekran-resmi-2020-03-09-09-33-24-png.17083/)
 
@@ -19,10 +19,12 @@ Monster Abra A7 V6.1 monsternotebook.com.tr/abra/MONSTER-ABRA-A7-V6-1.html
 
 # What works?  
 Card Reader,     
-Lan,   
-Touchpad(Some gestures with multitouch),      
+Lan,
+Wifi,   
+Screen Brightness,   
+Touchpad,      
 Realtek ALC269(With AppleALC),    
-Microphone (But not good),      
+Microphone ,      
 Usb ports(Patched),    
 Intel HD 4600 with Hardware Acceleration,  
 Bluetooth,  
@@ -30,7 +32,5 @@ Camera,
 Battery Indicator,
 
 # Not Work,
-Wifi,  
-Nvidia GPU,     
-Screen Brightness,
+Nvidia GPU,(TURNED OFF IN WEG)
 
