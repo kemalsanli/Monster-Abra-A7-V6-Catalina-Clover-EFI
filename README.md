@@ -2,6 +2,8 @@
 Clover Config EFI File for macOS Catalina.  
 Status: STABLE
 
+This Config is USABLE FOR HACKINTOSH CLEVO N170SD , XMG 705 , ONE K73-5O
+
 ![ScreenShot](https://osxinfo.net/eklentiler/ekran-resmi-2020-03-09-09-33-24-png.17083/)
 
 OSXiNFO Link : https://osxinfo.net/konu/basarili-kurulum-monster-abra-a7-v6-1-catalina-10-15-3.13007/#post-84080
