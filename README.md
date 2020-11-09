@@ -20,7 +20,7 @@ Monster Abra A7 V6.1 monsternotebook.com.tr/abra/MONSTER-ABRA-A7-V6-1.html
 # What works?  
 Card Reader,     
 Lan,
-Wifi,   
+Wifi(With https://github.com/OpenIntelWireless/itlwm),   
 Screen Brightness,   
 Touchpad,      
 Realtek ALC269(With AppleALC),    
