@@ -317,17 +317,6 @@
 			</dict>
 		</array>
 	</dict>
-	<key>Quirks</key>
-	<dict>
-		<key>AvoidRuntimeDefrag</key>
-		<false/>
-		<key>EnableWriteUnprotector</key>
-		<false/>
-		<key>RebuildAppleMemoryMap</key>
-		<false/>
-		<key>SyncRuntimePermissions</key>
-		<false/>
-	</dict>
 	<key>RtVariables</key>
 	<dict>
 		<key>BooterConfig</key>
@@ -352,7 +341,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C025281084NFJQWAD</string>
+		<string>C02519104CDFJQWUE</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -382,9 +371,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro11,2</string>
 		<key>SerialNumber</key>
-		<string>C02Q204VG86R</string>
+		<string>C02PPXZ5G86R</string>
 		<key>SmUUID</key>
-		<string>9F49A264-BB75-4C95-8FD6-027F4BC147D9</string>
+		<string>E595D6A2-AAB1-42BC-B1FE-0AA6223C6316</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
